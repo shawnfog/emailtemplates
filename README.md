@@ -1,8 +1,11 @@
 # emailtemplates
 
 Title: Emails & Templates
+
 Version: 1.0
+
 Created By: Shawn Fogarty
+
 Purpose: Simple script that internally stores commonly used templates that can be retrieved by entering a short keyword that will copy the template to your clipboard for easy pasting into any application. The templates are hard coded into the script and geared towards usage in a Technical Support environment.
 
 Setup / Usage Instructions:
